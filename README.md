@@ -23,7 +23,3 @@ Real-time detection and mitigation of driver fatigue are critical to ensuring ro
 - **Road Safety**: Prevent accidents by monitoring and alerting drivers in real-time.  
 - **Automotive Integration**: Embed the system into vehicles for enhanced driver assistance.  
 - **Custom Applications**: Install in various platforms requiring driver monitoring and safety features.  
-
-## Installation and Usage  
-1. Clone the repository:
-   ```git clone https://github.com/Mathesh-V/Drowsy-Driver-Detection-System.git  
